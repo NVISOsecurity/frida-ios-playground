@@ -268,7 +268,6 @@ struct ContentView: View {
             
             
         ])]
-
     }
     
    
@@ -311,12 +310,10 @@ struct ContentView: View {
                     ForEach(challenges.indices, id: \.self) {
                         groupindex in
                         Section(header: Text(challenges[groupindex].title)) {
-
                             ForEach(challenges[groupindex].challenges.indices, id: \.self) {
                                 challengeindex in
                                 let challenge = challenges[groupindex].challenges[challengeindex]
                                 let formatIndex = "\(groupindex+1)." + String(format: "%02d", challengeindex + 1)
-
                                     NavigationLink(
                                         destination: ChallengeView(nav: "Challenge \(formatIndex)", title: challenge.title , text: challenge.text, handler: challenge.handler),
                                         label: {

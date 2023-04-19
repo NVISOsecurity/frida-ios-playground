@@ -1,3 +1,5 @@
+![logo](logo.png?raw=true "logo")
+
 # frida-ios-playground
 
 An iOS app that lets you practice your [Frida](https://frida.re) skills. This app provides you with a bunch of different tasks to complete using Frida.

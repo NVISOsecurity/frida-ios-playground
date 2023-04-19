@@ -16,6 +16,22 @@
 		9095FC2B29DF514D0054CD13 /* SwiftVault.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9095FC2A29DF514D0054CD13 /* SwiftVault.swift */; };
 		9095FC2D29E049A60054CD13 /* ChallengeVault.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9095FC2C29E049A60054CD13 /* ChallengeVault.swift */; };
 		9095FC2F29E056110054CD13 /* String+Subscript.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9095FC2E29E056110054CD13 /* String+Subscript.swift */; };
+		9095FC4129EFFC990054CD13 /* icon (1)-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3129EFFC980054CD13 /* icon (1)-20@2x.png */; };
+		9095FC4229EFFC990054CD13 /* icon (1)-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3229EFFC990054CD13 /* icon (1)-20@3x.png */; };
+		9095FC4329EFFC990054CD13 /* icon (1)-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3329EFFC990054CD13 /* icon (1)-76.png */; };
+		9095FC4429EFFC990054CD13 /* icon (1)-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3429EFFC990054CD13 /* icon (1)-83.5@2x.png */; };
+		9095FC4529EFFC990054CD13 /* icon (1)-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3529EFFC990054CD13 /* icon (1)-29.png */; };
+		9095FC4629EFFC990054CD13 /* icon (1)-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3629EFFC990054CD13 /* icon (1)-40@3x.png */; };
+		9095FC4729EFFC990054CD13 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3729EFFC990054CD13 /* Contents.json */; };
+		9095FC4829EFFC990054CD13 /* icon (1)-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3829EFFC990054CD13 /* icon (1)-40@2x.png */; };
+		9095FC4929EFFC990054CD13 /* icon (1)-20.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3929EFFC990054CD13 /* icon (1)-20.png */; };
+		9095FC4A29EFFC990054CD13 /* icon (1)-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3A29EFFC990054CD13 /* icon (1)-76@2x.png */; };
+		9095FC4B29EFFC990054CD13 /* icon (1)-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3B29EFFC990054CD13 /* icon (1)-29@3x.png */; };
+		9095FC4C29EFFC990054CD13 /* icon (1)-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3C29EFFC990054CD13 /* icon (1)-60@2x.png */; };
+		9095FC4D29EFFC990054CD13 /* icon (1)-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3D29EFFC990054CD13 /* icon (1)-60@3x.png */; };
+		9095FC4E29EFFC990054CD13 /* icon (1)-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3E29EFFC990054CD13 /* icon (1)-29@2x.png */; };
+		9095FC4F29EFFC990054CD13 /* icon (1)-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3F29EFFC990054CD13 /* icon (1)-40.png */; };
+		9095FC5029EFFC990054CD13 /* icon (1)-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC4029EFFC990054CD13 /* icon (1)-1024.png */; };
 		90CB95B629AE078800542BD2 /* fridaplaygroundApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90CB95B529AE078800542BD2 /* fridaplaygroundApp.swift */; };
 		90CB95B829AE078800542BD2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90CB95B729AE078800542BD2 /* ContentView.swift */; };
 		90CB95BA29AE078D00542BD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90CB95B929AE078D00542BD2 /* Assets.xcassets */; };
@@ -36,7 +52,23 @@
 		9095FC2A29DF514D0054CD13 /* SwiftVault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftVault.swift; sourceTree = "<group>"; };
 		9095FC2C29E049A60054CD13 /* ChallengeVault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeVault.swift; sourceTree = "<group>"; };
 		9095FC2E29E056110054CD13 /* String+Subscript.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Subscript.swift"; sourceTree = "<group>"; };
-		90CB95B229AE078800542BD2 /* fridaplayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fridaplayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9095FC3129EFFC980054CD13 /* icon (1)-20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-20@2x.png"; sourceTree = "<group>"; };
+		9095FC3229EFFC990054CD13 /* icon (1)-20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-20@3x.png"; sourceTree = "<group>"; };
+		9095FC3329EFFC990054CD13 /* icon (1)-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-76.png"; sourceTree = "<group>"; };
+		9095FC3429EFFC990054CD13 /* icon (1)-83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-83.5@2x.png"; sourceTree = "<group>"; };
+		9095FC3529EFFC990054CD13 /* icon (1)-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-29.png"; sourceTree = "<group>"; };
+		9095FC3629EFFC990054CD13 /* icon (1)-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-40@3x.png"; sourceTree = "<group>"; };
+		9095FC3729EFFC990054CD13 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		9095FC3829EFFC990054CD13 /* icon (1)-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-40@2x.png"; sourceTree = "<group>"; };
+		9095FC3929EFFC990054CD13 /* icon (1)-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-20.png"; sourceTree = "<group>"; };
+		9095FC3A29EFFC990054CD13 /* icon (1)-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-76@2x.png"; sourceTree = "<group>"; };
+		9095FC3B29EFFC990054CD13 /* icon (1)-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-29@3x.png"; sourceTree = "<group>"; };
+		9095FC3C29EFFC990054CD13 /* icon (1)-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-60@2x.png"; sourceTree = "<group>"; };
+		9095FC3D29EFFC990054CD13 /* icon (1)-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-60@3x.png"; sourceTree = "<group>"; };
+		9095FC3E29EFFC990054CD13 /* icon (1)-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-29@2x.png"; sourceTree = "<group>"; };
+		9095FC3F29EFFC990054CD13 /* icon (1)-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-40.png"; sourceTree = "<group>"; };
+		9095FC4029EFFC990054CD13 /* icon (1)-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon (1)-1024.png"; sourceTree = "<group>"; };
+		90CB95B229AE078800542BD2 /* Playground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Playground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90CB95B529AE078800542BD2 /* fridaplaygroundApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fridaplaygroundApp.swift; sourceTree = "<group>"; };
 		90CB95B729AE078800542BD2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		90CB95B929AE078D00542BD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -54,6 +86,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9095FC3029EFFC980054CD13 /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				9095FC3129EFFC980054CD13 /* icon (1)-20@2x.png */,
+				9095FC3229EFFC990054CD13 /* icon (1)-20@3x.png */,
+				9095FC3329EFFC990054CD13 /* icon (1)-76.png */,
+				9095FC3429EFFC990054CD13 /* icon (1)-83.5@2x.png */,
+				9095FC3529EFFC990054CD13 /* icon (1)-29.png */,
+				9095FC3629EFFC990054CD13 /* icon (1)-40@3x.png */,
+				9095FC3729EFFC990054CD13 /* Contents.json */,
+				9095FC3829EFFC990054CD13 /* icon (1)-40@2x.png */,
+				9095FC3929EFFC990054CD13 /* icon (1)-20.png */,
+				9095FC3A29EFFC990054CD13 /* icon (1)-76@2x.png */,
+				9095FC3B29EFFC990054CD13 /* icon (1)-29@3x.png */,
+				9095FC3C29EFFC990054CD13 /* icon (1)-60@2x.png */,
+				9095FC3D29EFFC990054CD13 /* icon (1)-60@3x.png */,
+				9095FC3E29EFFC990054CD13 /* icon (1)-29@2x.png */,
+				9095FC3F29EFFC990054CD13 /* icon (1)-40.png */,
+				9095FC4029EFFC990054CD13 /* icon (1)-1024.png */,
+			);
+			name = AppIcon.appiconset;
+			path = assets/iOS/AppIcon.appiconset;
+			sourceTree = "<group>";
+		};
 		90CB95A929AE078800542BD2 = {
 			isa = PBXGroup;
 			children = (
@@ -65,7 +121,7 @@
 		90CB95B329AE078800542BD2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				90CB95B229AE078800542BD2 /* fridaplayground.app */,
+				90CB95B229AE078800542BD2 /* Playground.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -90,6 +146,7 @@
 				9095FC2629DF27C70054CD13 /* NativeVault.c */,
 				9095FC2829DF3DA20054CD13 /* Security.swift */,
 				9095FC2A29DF514D0054CD13 /* SwiftVault.swift */,
+				9095FC3029EFFC980054CD13 /* AppIcon.appiconset */,
 			);
 			path = fridaplayground;
 			sourceTree = "<group>";
@@ -119,7 +176,7 @@
 			);
 			name = fridaplayground;
 			productName = fridaplayground;
-			productReference = 90CB95B229AE078800542BD2 /* fridaplayground.app */;
+			productReference = 90CB95B229AE078800542BD2 /* Playground.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -161,8 +218,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9095FC4B29EFFC990054CD13 /* icon (1)-29@3x.png in Resources */,
 				90CB95BD29AE078D00542BD2 /* Preview Assets.xcassets in Resources */,
+				9095FC4E29EFFC990054CD13 /* icon (1)-29@2x.png in Resources */,
+				9095FC4929EFFC990054CD13 /* icon (1)-20.png in Resources */,
+				9095FC4D29EFFC990054CD13 /* icon (1)-60@3x.png in Resources */,
 				90CB95BA29AE078D00542BD2 /* Assets.xcassets in Resources */,
+				9095FC4729EFFC990054CD13 /* Contents.json in Resources */,
+				9095FC4A29EFFC990054CD13 /* icon (1)-76@2x.png in Resources */,
+				9095FC4829EFFC990054CD13 /* icon (1)-40@2x.png in Resources */,
+				9095FC4C29EFFC990054CD13 /* icon (1)-60@2x.png in Resources */,
+				9095FC4329EFFC990054CD13 /* icon (1)-76.png in Resources */,
+				9095FC4F29EFFC990054CD13 /* icon (1)-40.png in Resources */,
+				9095FC4429EFFC990054CD13 /* icon (1)-83.5@2x.png in Resources */,
+				9095FC5029EFFC990054CD13 /* icon (1)-1024.png in Resources */,
+				9095FC4629EFFC990054CD13 /* icon (1)-40@3x.png in Resources */,
+				9095FC4229EFFC990054CD13 /* icon (1)-20@3x.png in Resources */,
+				9095FC4129EFFC990054CD13 /* icon (1)-20@2x.png in Resources */,
+				9095FC4529EFFC990054CD13 /* icon (1)-29.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,7 +380,7 @@
 		90CB95C129AE078D00542BD2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -327,7 +400,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = eu.nviso.fridaplayground;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Playground;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "fridaplayground/fridaplayground-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -339,7 +412,7 @@
 		90CB95C229AE078D00542BD2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -359,7 +432,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = eu.nviso.fridaplayground;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Playground;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "fridaplayground/fridaplayground-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;

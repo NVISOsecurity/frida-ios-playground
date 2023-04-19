@@ -7,8 +7,9 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import "HiddenVault.h""
-#import "fridaplayground-Swift.h"
+#import "HiddenVault.h"
+#import "Playground-Swift.h"
+
 
 @implementation HiddenVault : NSObject
 

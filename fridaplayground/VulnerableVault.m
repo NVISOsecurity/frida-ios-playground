@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "VulnerableVault.h"
 #import "HiddenVault.h"
-#import "fridaplayground-Swift.h"
+#import "Playground-Swift.h"
 
 #import <LocalAuthentication/LocalAuthentication.h>
 
