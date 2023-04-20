@@ -16,22 +16,6 @@
 		9095FC2B29DF514D0054CD13 /* SwiftVault.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9095FC2A29DF514D0054CD13 /* SwiftVault.swift */; };
 		9095FC2D29E049A60054CD13 /* ChallengeVault.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9095FC2C29E049A60054CD13 /* ChallengeVault.swift */; };
 		9095FC2F29E056110054CD13 /* String+Subscript.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9095FC2E29E056110054CD13 /* String+Subscript.swift */; };
-		9095FC4129EFFC990054CD13 /* icon (1)-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3129EFFC980054CD13 /* icon (1)-20@2x.png */; };
-		9095FC4229EFFC990054CD13 /* icon (1)-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3229EFFC990054CD13 /* icon (1)-20@3x.png */; };
-		9095FC4329EFFC990054CD13 /* icon (1)-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3329EFFC990054CD13 /* icon (1)-76.png */; };
-		9095FC4429EFFC990054CD13 /* icon (1)-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3429EFFC990054CD13 /* icon (1)-83.5@2x.png */; };
-		9095FC4529EFFC990054CD13 /* icon (1)-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3529EFFC990054CD13 /* icon (1)-29.png */; };
-		9095FC4629EFFC990054CD13 /* icon (1)-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3629EFFC990054CD13 /* icon (1)-40@3x.png */; };
-		9095FC4729EFFC990054CD13 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3729EFFC990054CD13 /* Contents.json */; };
-		9095FC4829EFFC990054CD13 /* icon (1)-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3829EFFC990054CD13 /* icon (1)-40@2x.png */; };
-		9095FC4929EFFC990054CD13 /* icon (1)-20.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3929EFFC990054CD13 /* icon (1)-20.png */; };
-		9095FC4A29EFFC990054CD13 /* icon (1)-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3A29EFFC990054CD13 /* icon (1)-76@2x.png */; };
-		9095FC4B29EFFC990054CD13 /* icon (1)-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3B29EFFC990054CD13 /* icon (1)-29@3x.png */; };
-		9095FC4C29EFFC990054CD13 /* icon (1)-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3C29EFFC990054CD13 /* icon (1)-60@2x.png */; };
-		9095FC4D29EFFC990054CD13 /* icon (1)-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3D29EFFC990054CD13 /* icon (1)-60@3x.png */; };
-		9095FC4E29EFFC990054CD13 /* icon (1)-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3E29EFFC990054CD13 /* icon (1)-29@2x.png */; };
-		9095FC4F29EFFC990054CD13 /* icon (1)-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC3F29EFFC990054CD13 /* icon (1)-40.png */; };
-		9095FC5029EFFC990054CD13 /* icon (1)-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 9095FC4029EFFC990054CD13 /* icon (1)-1024.png */; };
 		90CB95B629AE078800542BD2 /* fridaplaygroundApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90CB95B529AE078800542BD2 /* fridaplaygroundApp.swift */; };
 		90CB95B829AE078800542BD2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90CB95B729AE078800542BD2 /* ContentView.swift */; };
 		90CB95BA29AE078D00542BD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90CB95B929AE078D00542BD2 /* Assets.xcassets */; };
@@ -218,24 +202,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9095FC4B29EFFC990054CD13 /* icon (1)-29@3x.png in Resources */,
 				90CB95BD29AE078D00542BD2 /* Preview Assets.xcassets in Resources */,
-				9095FC4E29EFFC990054CD13 /* icon (1)-29@2x.png in Resources */,
-				9095FC4929EFFC990054CD13 /* icon (1)-20.png in Resources */,
-				9095FC4D29EFFC990054CD13 /* icon (1)-60@3x.png in Resources */,
 				90CB95BA29AE078D00542BD2 /* Assets.xcassets in Resources */,
-				9095FC4729EFFC990054CD13 /* Contents.json in Resources */,
-				9095FC4A29EFFC990054CD13 /* icon (1)-76@2x.png in Resources */,
-				9095FC4829EFFC990054CD13 /* icon (1)-40@2x.png in Resources */,
-				9095FC4C29EFFC990054CD13 /* icon (1)-60@2x.png in Resources */,
-				9095FC4329EFFC990054CD13 /* icon (1)-76.png in Resources */,
-				9095FC4F29EFFC990054CD13 /* icon (1)-40.png in Resources */,
-				9095FC4429EFFC990054CD13 /* icon (1)-83.5@2x.png in Resources */,
-				9095FC5029EFFC990054CD13 /* icon (1)-1024.png in Resources */,
-				9095FC4629EFFC990054CD13 /* icon (1)-40@3x.png in Resources */,
-				9095FC4229EFFC990054CD13 /* icon (1)-20@3x.png in Resources */,
-				9095FC4129EFFC990054CD13 /* icon (1)-20@2x.png in Resources */,
-				9095FC4529EFFC990054CD13 /* icon (1)-29.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

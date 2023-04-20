@@ -1,14 +1,19 @@
-![logo](logo.png?raw=true "logo")
+![logo](img/logo.png?raw=true "logo")
 
 # frida-ios-playground
 
 An iOS app that lets you practice your [Frida](https://frida.re) skills. This app provides you with a bunch of different tasks to complete using Frida.
+
+
 
 ## Installing the IPA
 
 - **Jailbroken device:** Push the IPA to your device and install via Filza / TrollStore.
 - **Non-jailbroken device:** Since this application is meant to train your Frida skills, you'll first have to inject the Frida gadget. The easiest way is to use [objection's patchipa command](https://github.com/sensepost/objection/wiki/Patching-iOS-Applications). Note that this is only possible on a macOS device.
 
+## Preview
+
+![logo](img/screenshots.png?raw=true "logo")
 ## Challenges
 
 Basic ([solutions](solutions/basic.js))
